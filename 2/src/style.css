@@ -1,0 +1,14 @@
+body{
+    background-image:url("https://th.bing.com/th/id/R.7b8e7194eb04104e13bb22303bd85d46?rik=LWiBcOxfV8NX2Q&riu=http%3a%2f%2flatestwall.com%2fimages%2fwallpaper%2fbeautiful-nature-photography-hd-background-jpg&ehk=%2fvp%2f2FFX9s%2fgqDzP%2fP7pNQxwZHu9KLmdpEcgrnBHrzo%3d&risl=&pid=ImgRaw");
+    
+
+
+}
+
+.one{
+    color:black;
+    background-color: lightcoral;
+    padding:20px;
+    margin-right: 360px;
+    display: inline-block;
+}
